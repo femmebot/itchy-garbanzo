@@ -1,24 +1,19 @@
 {
-  "name": "search",
-  "version": "0.1.4",
-  "description": "search app for treehouse",
+  "name": "itchy-garbanzo",
+  "version": "1.0.0",
+  "description": "Treehouse profile search test project",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
-  },
-  "dependencies": {
-  },
-  "engines": {
-    "node": "0.12.2"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/femmebot/itchy-garbanzo/"
+    "url": "git+https://github.com/femmebot/itchy-garbanzo.git"
   },
-  "keywords": [
-    "node",
-    "heroku",
-    "search"
-  ],
-  "license": "none"
+  "author": "femmebot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/femmebot/itchy-garbanzo/issues"
+  },
+  "homepage": "https://github.com/femmebot/itchy-garbanzo#readme"
 }
